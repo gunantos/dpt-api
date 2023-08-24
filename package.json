@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/gunantos/dpt-api"
   },
+  "keywords": ["dpt api, dpt online"],
   "scripts": {
     "start": "node ./bin/www"
   },
@@ -20,5 +21,8 @@
     "mocha": "^10.2.0",
     "morgan": "~1.9.1",
     "selenium-webdriver": "^4.11.1"
+  },
+  "bugs": {
+    "url": "https://github.com/gunantos/dpt-api/issues"
   }
 }
