@@ -1,5 +1,8 @@
 # dpt-api
 
+
+#API INI TIDAK BERFUNGSI LAGI dan BELUM ADA UPDATE
+
 API cek DPT (Daftar Pemilih Tetap) menggunakan EXPRESS io dan selenium
 
 ### INSTALL
